@@ -33,10 +33,27 @@
 // }
 
 // console.log(listavuota)
+// --------------------------------------------------------------------------
 
 // snack 3
 
-let num = ["1","2","3","4","5","6","7","8"]
+// let num = [1,2,3,4,5,6,7,8];
+
+// let lunghezza = num.length;
+// let somma = num[0];
+
+// for (let i = 2; i < lunghezza; i = i+2) {
+    
+//     somma = somma + num[i]
+    
+// }
+// console.log(somma)
+
+
+
+
+
+
 
 
 
